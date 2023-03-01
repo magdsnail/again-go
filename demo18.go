@@ -16,7 +16,6 @@ func main() {
 	fmt.Scanln(&x, &y)
 	fmt.Println("x:", x)
 	fmt.Println("y:", y)
-
 	//fmt.Scanln() //接收输入 Scan |
 
 }
