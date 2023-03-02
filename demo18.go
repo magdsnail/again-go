@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	var x int
@@ -17,5 +19,4 @@ func main() {
 	fmt.Println("x:", x)
 	fmt.Println("y:", y)
 	//fmt.Scanln() //接收输入 Scan |
-
 }
