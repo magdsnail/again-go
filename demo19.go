@@ -15,12 +15,10 @@ func main() {
 	//	}
 	//	fmt.Println()
 	//}
-
 	for j := 1; j <= 9; j++ {
 		for i := 1; i <= j; i++ {
 			fmt.Printf("%d * %d = %d \t", i, j, i*9)
 		}
 		fmt.Println()
 	}
-
 }
